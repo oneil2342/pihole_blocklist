@@ -1,0 +1,69 @@
+# Title: https://github.com/oneil2342/pihole_blocklist/new/main
+#
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+#
+# Date: 25 March 2024 02:03:14 (UTC)
+# Number of unique domains: 183,511
+#
+# Fetch the latest version of this file: https://github.com/oneil2342/pihole_blocklist/new/main
+#
+# ===============================================================
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# Custom host records are listed here.
+
+
+# End of custom host records.
+# Start StevenBlack
+
+#=====================================
+# Title: Hosts contributed by oneil2342
+# https://github.com/oneil2342/pihole_blocklist/new/main
+
+0.0.0.0 adtago.s3.amazonaws.com
+0.0.0.0 analyticsengine.s3.amazonaws.com
+0.0.0.0 https://advice-ads.s3.amazonaws.com
+0.0.0.0 https://affiliationjs.s3.amazonaws.com
+0.0.0.0 https://amazonclix.com
+0.0.0.0 https://freshmarketer.com/
+0.0.0.0 https://notify.bugsnag.com
+0.0.0.0 https://sessions.bugsnag.com
+0.0.0.0 https://app.bugsnag.com
+0.0.0.0 https://api.bugsnag.com
+0.0.0.0 https://browser.sentry-cdn.com
+0.0.0.0 https://app.getsentry.com
+0.0.0.0 https://rereddit.com
+0.0.0.0 https://events.redditmedia.com
+0.0.0.0 https://ads.youtube.com
+0.0.0.0 https://yandexadexchange.net
+0.0.0.0 https://click.oneplus.cn
+0.0.0.0 https://open.oneplus.net
+0.0.0.0 https://ad.samsungadhub.com
+0.0.0.0 https://samsungadhub.com
+0.0.0.0 https://samsungads.com
+0.0.0.0 https://business.samsungusa.com
+0.0.0.0 https://analytics.samsungknox.com
+0.0.0.0 https://analytics-api.samsunghealthcn.com
+0.0.0.0 https://config.samsungads.com
+0.0.0.0 https://securemetrics.apple.com
+0.0.0.0 https://supportmetrics.apple.com
+0.0.0.0 https://metrics.icloud.com
+0.0.0.0 https://metrics.mzstatic.com
+
+
+
